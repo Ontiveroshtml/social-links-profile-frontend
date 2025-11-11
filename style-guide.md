@@ -12,11 +12,21 @@ The designs were created to the following widths:
 ## Colors
 
 @theme {
-  --color-Green: hsl(75, 94%, 57%);
-  --color-White: hsl(0, 0%, 100%);
-  --color-Grey-700: hsl(0, 0%, 20%);
-  --color-Grey-800: hsl(0, 0%, 12%);
-  --color-Grey-900: hsl(0, 0%, 8%);
+--color-Green: hsl(75, 94%, 57%);
+--color-White: hsl(0, 0%, 100%);
+--color-Grey-700: hsl(0, 0%, 20%);
+--color-Grey-800: hsl(0, 0%, 12%);
+--color-Grey-900: hsl(0, 0%, 8%);
+}
+@theme {
+
+--color-Green 400: hsl(172, 67%, 45%)
+--color-Green 900: hsl(183, 100%, 15%)
+--color-Grey 500: hsl(186, 14%, 43%)
+--color-Grey 400: hsl(184, 14%, 56%)
+--color-Grey 200: hsl(185, 41%, 84%)
+--color-Grey 50: hsl(189, 47%, 97%)
+--color-White: hsl(0, 100%, 100%)
 }
 
 ## Typography
