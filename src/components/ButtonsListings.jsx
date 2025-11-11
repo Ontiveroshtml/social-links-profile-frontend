@@ -1,4 +1,4 @@
-import { Buttons } from "./buttons";
+import { Buttons } from "./Buttons";
 
 export function ButtonsListings({buttonsData}) {
   return (
